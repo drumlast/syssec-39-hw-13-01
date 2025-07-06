@@ -31,7 +31,7 @@
 ```
 ![alt text](img/1.png)
 
-#### Популярные уязвимости, обнаруженные на хосте:
+#### Уязвимости, обнаруженные на хосте:
 1. vsftpd 2.3.4 Backdoor доступ через FTP https://www.exploit-db.com/exploits/17491
 2. PostgreSQL 8.3.6 подвержён удалённой уязвимости типа отказ в обслуживании (DoS) https://www.exploit-db.com/exploits/32849
 3. Samba 3.5.0 - Remote Code Execution https://www.exploit-db.com/exploits/42060
