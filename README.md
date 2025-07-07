@@ -42,3 +42,11 @@ SYN	Полуоткрытое соединение (стелс) - ответ се
 FIN	Тихий FIN-пакет - ответ сервера: RST если закрыт, игнор если открыт
 Xmas Маскировка пакета, похож на FIN - ответ сервера: Аналогично FIN
 UDP	Без соединения, сложно определять - ответ сервера: ICMP ошибка или ответ UDP
+![alt text](img/2.png)
+![alt text](img/2-1.png)
+![alt text](img/3.png)
+![alt text](img/3-1.png)
+![alt text](img/4.png)
+![alt text](img/4-1.png)
+![alt text](img/5.png)
+![alt text](img/5-1.png)
